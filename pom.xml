@@ -6,7 +6,7 @@
 
 	<groupId>net.edwardsonthe</groupId>
 	<artifactId>gs-consuming-rest</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>gs-consuming-rest</name>
 	<description>Demo of consuming RESTful web service.</description>
 
