@@ -18,4 +18,10 @@ public class ClientTest {
       assertNotNull(greeting);
    }
 
+   @Test
+   public void testInvokeGreeting2() throws IOException {
+      Greeting greeting = client.invokeGreeting(null);
+      assertNotNull(greeting);
+   }
+
 }

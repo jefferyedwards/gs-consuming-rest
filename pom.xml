@@ -6,7 +6,7 @@
 
 	<groupId>net.edwardsonthe</groupId>
 	<artifactId>gs-consuming-rest</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.1</version>
 	<name>gs-consuming-rest</name>
 	<description>Demo of consuming RESTful web service.</description>
 
@@ -20,7 +20,7 @@
 		<dependency>
 			<groupId>net.edwardsonthe</groupId>
 			<artifactId>gs-rest-service-common</artifactId>
-			<version>1.0.0</version>
+			<version>1.0.1</version>
 		</dependency>
 		<dependency>
 			<groupId>org.projectlombok</groupId>
