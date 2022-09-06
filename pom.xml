@@ -20,7 +20,7 @@
 		<dependency>
 			<groupId>net.edwardsonthe</groupId>
 			<artifactId>gs-rest-service-common</artifactId>
-			<version>1.0.1</version>
+			<version>[1.0, 2.0)</version>
 		</dependency>
 		<dependency>
 			<groupId>org.projectlombok</groupId>
